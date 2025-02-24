@@ -1,7 +1,7 @@
 {
   "site": {
     "title": "海棠诗社",
-    "base_url": "https://haitang.app",
+    "base_url": "https://chinese-poetry.programnotes.cn/",
     "base_path": "/",
     "trailing_slash": false,
     "favicon": "/images/favicon.svg",
@@ -11,7 +11,6 @@
     "logo_height": "30",
     "logo_text": "海棠诗社"
   },
-
   "settings": {
     "search": true,
     "sticky_header": true,
@@ -21,7 +20,6 @@
     "summary_length": 200,
     "blog_folder": "blog"
   },
-
   "metadata": {
     "meta_author": "海棠诗社",
     "meta_image": "/images/screenshot.png",
